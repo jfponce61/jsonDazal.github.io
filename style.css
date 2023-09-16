@@ -1,0 +1,88 @@
+/* || general styles */
+
+html {
+    display: flex;
+   
+    font-family: 'helvetica neue', helvetica, arial, sans-serif;
+ 
+}
+
+body {
+    display:inline-block;
+    background-image: url(https://live.staticflickr.com/8651/16496931377_e238dd3c68_k.jpg);
+    text-decoration:solid;
+    font-size:larger;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+h1, h2  {
+    font-family: 'Faster one ',Segoe Script;/*tipo de letra del titulo*/
+    /*width: auto;
+    margin: 0 auto;*/
+    
+}
+
+
+/* header styles */
+
+h1 {
+    font-size:  5rem;/*tamaño del titulo*/
+    text-align: right;
+}
+
+
+.header {
+  
+    text-align: right;
+    float: right;
+   
+}
+
+
+/*
+header p {
+    font-size: 1.5rem;
+    font-weight: bold;
+  
+    
+}
+
+
+
+/* section styles */
+
+section article {
+    display: block;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+    width: 90%;
+    /*width: 90%;/*ancho de el parrafo en columna*/
+    /*float: left;*/
+    background-color: rgba(150, 226, 143, 0.253);/*color fondo parrafo*/
+   
+}
+
+
+
+
+/*
+section p {
+    margin: 5px 0;
+}
+
+section ul {
+    margin-top: 0;
+}*/
+
+h2 {
+    font-size: 2.5rem;
+    letter-spacing: -5px;
+    margin-bottom: 10px;
+    color: rgb(38, 10, 75);
+}
+
+

@@ -1,0 +1,61 @@
+{
+    "squadName": "",
+    "homeTown": "",
+    "formed": 2023,
+    "secretBase": "Super tower",
+    "active": true,
+    "members": [
+        {
+            "name": "Rock",
+            "age": 1950,
+            "secretIdentity": "Este tipo de estilo de musica el cual es muy amplio, ya que dentro de este mismo genero se llegan a incluir una enorme variedad de estilos.",
+            "powers": [
+                "Guitarra Electrica",
+                "Bateria",
+                "Bajo"
+                
+            ]
+        },
+        {
+            "name": "Salsa",
+            "age": 1950,
+            "secretIdentity": "La salsa cosiste en una mezcla entre los diferentes tipos de estilos de musica caribeña",
+            "powers": [
+                "Piano",
+                "Trompetas",
+                "Instrumentos de percusión"
+            ]
+        },
+        {
+            "name": "Reggae",
+            "age": 1970,
+            "secretIdentity": "Es un género musical originado en Jamaica en los años 60, y que a su vez tiene una unos subgeneros como el ska, rocksteady,reggae.",
+            "powers": [
+                "Guitarra",
+                "Bateria",
+                "Bajo"
+            ]
+        },
+        {
+            "name": "Salsa_1",
+            "age": 1950,
+            "secretIdentity": "La salsa cosiste en una mezcla entre los diferentes tipos de estilos de musica caribeña",
+            "powers": [
+                "Piano",
+                "Trompetas",
+                "Instrumentos de percusión"
+            ]
+        },
+        {
+            "name": "Salsa_2",
+            "age": 1950,
+            "secretIdentity": "La salsa cosiste en una mezcla entre los diferentes tipos de estilos de musica caribeña",
+            "powers": [
+                "Piano",
+                "Trompetas",
+                "Instrumentos de percusión"
+            ]
+        }
+        
+    ]
+}
